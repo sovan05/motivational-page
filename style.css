@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Bakbak+One&family=Caprasimo&family=Caveat&family=Lato:wght@300&family=Lobster&family=Play:wght@700&family=Titillium+Web:wght@200&family=Ultra&display=swap');
+
+body{
+
+    background-color: black;
+
+}
+
+.main{
+
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 7%;
+
+}
+
+img{
+
+    width: 100%;
+    border: 5px solid white;
+
+}
+
+h1{
+
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+
+}
+
+p{
+
+    color: white;
+    text-align: center;
+
+}
